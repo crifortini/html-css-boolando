@@ -14,6 +14,21 @@ body {
   color: #111;
 }
 
+.discount{
+    position: absolute;
+    color: white;
+    background-color: red;
+    top: 125%;
+}
+
+#green{
+    position: absolute;
+    color: white;
+    background-color: green;
+    top: 125%;
+    left: 3%;
+}
+
 .logo{
     text-align: center;
 }
