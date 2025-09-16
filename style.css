@@ -35,6 +35,31 @@ a{
     color: red;
 }
 
+#white{
+    color: white;
+    padding: 20px;
+    margin-left: 5%;
+}
+
+#info{
+    color: white;
+    padding: 5px;
+    margin-left: 89px;
+    font-size: 15px;
+}
+
+#social{
+    color: white;
+    text-align: end;
+    margin-right: 5%;
+}
+
+.icons-social{
+    color: white;
+    font-size: 20px;
+    text-align: end;
+    margin-right: 4.5%;
+}
 
 footer{
     background-color: black;
